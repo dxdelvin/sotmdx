@@ -1,0 +1,223 @@
+/* navigation */
+
+p{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    font-family: 'Righteous', cursive;
+}
+
+.navbar{
+    
+    padding: 6%;
+}
+
+.navbar-brand{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 3rem;
+
+}
+
+.nav-item{
+    font-size: 1.2rem;
+    padding:0px 2px;
+}
+
+nav{
+    background-color: #280137;
+}
+
+
+/* homepage and section */
+
+.home{
+    background-color: #280137;
+    color: whitesmoke;
+
+}
+
+.but{
+    padding:0rem;
+    font-size: 2rem;
+}
+
+
+.title{
+    font-family: 'Exo', sans-serif;
+    font-size: 7.7rem;
+    text-shadow: black;
+}
+
+
+.title:hover{
+    font-family: 'Gochi Hand', cursive;
+    font-size: 9rem;
+    transform:rotate(-5deg);
+}
+
+.form-title{
+    font-family: "Exo", sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    text-shadow: black;
+    margin-bottom: 5%;
+}
+
+
+.subtitle{
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-weight: bold;
+    font-size: 2.8rem;
+}
+
+align-content-center{
+display: inline;
+text-align: center;
+align-items: center;
+}
+
+.phone-image{
+    transform: scale(1) rotate(-10deg);
+} 
+section{
+    padding: 6%;
+
+}
+.carousel-item p{
+    display: inline;
+    text-align: center;
+    float: left;
+}
+
+.carousel-item{
+    padding: 20%;
+
+}
+.carousel-item h2{
+    line-height: 120%;
+    padding-bottom: 3%;
+}
+.customer-review{
+border-radius: 80%;
+
+}
+
+
+.about-sotm {
+    background-color: #ffd1df;
+}
+.video{
+    background-color: #ffd1df
+}
+
+.align-content-center{
+    align-self: center;
+}
+
+.form-title{
+    text-align: center;
+    
+}
+.form{
+    background-color: #280137;
+    color: whitesmoke;
+    padding: 20%;
+    
+}
+
+.files{
+    background-color: black;
+    color: wheat;
+    
+}
+
+.File{
+    margin-left: 47%;
+    margin-top: 2%;
+    padding: 3%;
+}
+
+
+
+
+/* footer  */
+/*footer*/
+.col_white_amrc { color:#FFF;}
+footer { width:100%; background-color:#280137; min-height:250px; padding:10px 0px 25px 0px ;}
+.pt2 { padding-top:40px ; margin-bottom:20px ;}
+footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+
+.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { 
+    display:inline;
+}
+.foote_bottom_ul_amrc li a { 
+    color:#999; margin:0 12px;
+
+}
+
+.social_footer_ul { 
+    display:table; margin:15px auto 0 auto; list-style-type:none;  
+}
+.social_footer_ul li { 
+    padding-left:20px; padding-top:10px; float:left; 
+}
+.social_footer_ul li a { 
+    color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;
+}
+.social_footer_ul li i { 
+     width:20px; height:20px; text-align:center;
+    }
+
+/* card  */
+.card{
+    filter: grayscale(100%);
+    filter:brightness(-1);
+    margin:3%;
+
+}
+.center{
+    text-align: center;
+    align-self: center;
+}
+
+
+.card:hover{
+    filter: grayscale(0%);
+    color: white;
+    background-color: #280137;
+    transform: scale(1.1);
+}
+.cardbody:hover{
+    filter: grayscale(0%);
+    color: white;
+    background-color: #280137;
+}
+
+
+/* bootom panel  */
+.offcanvas-title{
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding:3%;
+    margin-left: 35%;
+}
+
+
+
+
+.end .text-center{
+    text-align: center;
+}
+
